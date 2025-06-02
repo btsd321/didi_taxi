@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>passenger.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>car.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>moving_car.png</file>
+    </qresource>
+</RCC>
